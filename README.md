@@ -1,0 +1,1 @@
+This is a project that enables one search for different countries in different regions and was built using html and css. It has features such as the search bar and dropdown menu which enables one search for countries and also choose a region, it has the country grid which shows the region maps and also has the detail section which displays countries, their flags and population
